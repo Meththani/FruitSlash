@@ -1,6 +1,6 @@
 # Fruit Slash: Arcade Challenge
 
-A 2D fruit-slicing arcade game built with **Java Swing and Java2D** for the KDU IT22013 Data Structures and Algorithms group assignment.
+A 2D fruit-slicing arcade game built with **Java Swing and Java2D** 
 
 Slice fruits, avoid bombs, build combos, and complete all 8 levels while exploring arrays, linked lists, stacks, queues, sorting, searching, and recursion.
 
