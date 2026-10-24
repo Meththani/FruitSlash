@@ -1,0 +1,3 @@
+# Fruit Slash leaderboard (name<TAB>score)
+Playeru	275
+Player2	96
